@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JumokeAkinyemi
-- 👀 I’m interested in data science 
-- 🌱 I’m currently in the process of becoming a professional data scientist
+- 👀 I’m interested in data science
+- 💕 I'm ready to collaborate on Data Science Projects
 - 💞️ I’m looking forward to learn, re-learn, un-learn and contibute to the society at large
 - 📫 How to reach me www.linkedin.com/in/jumoke-akinyemi-a303b51a5 
 
