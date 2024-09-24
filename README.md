@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @JumokeAkinyemi
+- 👋 Hi, I’m @Jumoke_Akinyemi
 - 👀 I’m interested in data science
 - 💕 I'm ready to collaborate on Data Science Projects
 - 💞️ I’m looking forward to learn, re-learn, un-learn and contibute to the society at large
-- 📫 How to reach me www.linkedin.com/in/jumoke-akinyemi-a303b51a5 
+- 📫 How to reach me www.linkedin.com/in/jumoke-akinyemi
 
 <!---
 JumokeAkinyemi/JumokeAkinyemi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
