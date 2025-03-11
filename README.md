@@ -2,7 +2,7 @@
 ### **Jumoke Akinyemi**
 ### **Data Analyst | Data Scientist**  
 
-Welcome to my GitHub! I'm a highly motivated **Data Analyst & Data Scientist** passionate about **data-driven decision-making, predictive modeling, and business intelligence**. My work involves leveraging **Python, SQL, Excel, Power BI, and Tableau** to extract insights and build scalable solutions.  
+Hello, welcome to my GitHub! I'm a highly motivated **Data Analyst & Data Scientist** passionate about **data-driven decision-making, predictive modeling, and business intelligence**. My work involves leveraging **Python, SQL, Excel, Power BI, and Tableau** to extract insights and build scalable solutions.  
 
 🔹 **Areas of Interest:**  
 - Data Analytics & Visualization  
@@ -23,8 +23,8 @@ Welcome to my GitHub! I'm a highly motivated **Data Analyst & Data Scientist** p
 I'm open to **collaborations, research, and speaking opportunities**. Feel free to reach out!  
  
 📧 **Email:** jumokeakinyemi52@gmail.com      
-💼 **LinkedIn:** (https://www.linkedin.com/in/ jumoke-akinyemi)      
-🐦 **Twitter/X:** [Your Twitter Handle]  
+💼 **LinkedIn:** https://www.linkedin.com/in/ jumoke-akinyemi          
+🐦 **Twitter/X:** https://twitter.com/JumokeAkinyemi1
  
 
 <!---
