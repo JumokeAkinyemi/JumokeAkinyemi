@@ -9,7 +9,6 @@ Hello, welcome to my GitHub! I'm a highly motivated **Data Analyst & Data Scient
 - Machine Learning & AI  
 - Business Intelligence & Product Analytics  
 - Research & Statistical Modeling  
-- Financial and Agritech Data Solutions  
 
 ## **Skills & Tech Stack**  
 📌 **Languages:** Python, SQL  
