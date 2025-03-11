@@ -23,7 +23,7 @@ Hello, welcome to my GitHub! I'm a highly motivated **Data Analyst & Data Scient
 I'm open to **collaborations, research, and speaking opportunities**. Feel free to reach out!  
  
 📧 **Email:** jumokeakinyemi52@gmail.com      
-💼 **LinkedIn:** https://www.linkedin.com/in/ jumoke-akinyemi          
+💼 **LinkedIn:** www.linkedin.com/in/jumoke-akinyemi         
 🐦 **Twitter/X:** https://twitter.com/JumokeAkinyemi1
  
 
